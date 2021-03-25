@@ -1,0 +1,14 @@
+INFO  25-03-21 30:25 [main] lesson2.serverside.service.MyServer (MyServer.java:40) - Wait
+INFO  25-03-21 32:48 [main] lesson2.serverside.service.MyServer (MyServer.java:40) - Server Wait
+INFO  25-03-21 32:49 [main] lesson2.serverside.service.MyServer (MyServer.java:44) - Client lesson2.serverside.service.MyServer@1442d7b5 connected
+INFO  25-03-21 32:49 [main] lesson2.serverside.service.MyServer (MyServer.java:40) - Server Wait
+INFO  25-03-21 36:37 [main] lesson2.serverside.service.MyServer (MyServer.java:40) - Server Wait
+INFO  25-03-21 36:39 [main] lesson2.serverside.service.MyServer (MyServer.java:44) - Client lesson2.serverside.service.MyServer@1442d7b5 connected
+INFO  25-03-21 36:39 [main] lesson2.serverside.service.MyServer (MyServer.java:40) - Server Wait
+INFO  25-03-21 36:45 [pool-2-thread-1] lesson2.serverside.service.MyServer (MyServer.java:66) - client: lesson2.serverside.service.MyServer@1442d7b5 send message: Hello vovo
+INFO  25-03-21 36:48 [pool-2-thread-1] lesson2.serverside.service.MyServer (MyServer.java:66) - client: lesson2.serverside.service.MyServer@1442d7b5 send message: vovo : hi people
+INFO  25-03-21 38:56 [main] lesson2.serverside.service.MyServer (MyServer.java:40) - Server Wait
+INFO  25-03-21 38:59 [main] lesson2.serverside.service.MyServer (MyServer.java:44) - Client lesson2.serverside.service.MyServer@1442d7b5 connected
+INFO  25-03-21 38:59 [main] lesson2.serverside.service.MyServer (MyServer.java:40) - Server Wait
+INFO  25-03-21 39:07 [pool-2-thread-1] lesson2.serverside.service.MyServer (MyServer.java:66) - client: [] send message: Hello vovo
+INFO  25-03-21 39:09 [pool-2-thread-1] lesson2.serverside.service.MyServer (MyServer.java:66) - client: [lesson2.serverside.service.ClientHandler@2073beab] send message: vovo : hi man
